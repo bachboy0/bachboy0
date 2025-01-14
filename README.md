@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bachboy0
 - 👀 I’m interested in ... ui design, self-driving
-- 🌱 I’m currently learning ... python
+- 🌱 I’m currently learning ... python, html, css, react, next.js, docusaurus
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
