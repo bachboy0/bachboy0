@@ -1,13 +1,13 @@
-Korean and Japanese follows English.
-日本語は英語の後に続きます。
-영어, 일본어에 이어 한국어판이 있습니다.
+Korean and Japanese follows English.  
+日本語は英語の後に続きます。  
+영어, 일본어에 이어 한국어판이 있습니다.  
 
 # 👋 Hi, I'm @bachboy0
 
 ## 👨‍💻 About Me
 I'm passionate about Full-stack Development with a deep interest in the automotive industry. I hold a degree in Applied Informatics from Kwansei Gakuin University.
 
-- 🌱 Currently learning: Python, HTML, CSS, React, Next.js, and Docusaurus
+- 🌱 Currently learning: Python, React, Next.js
 - 🎯 Career goal: Aspire to secure a technical role that leverages my skills and guarantees a robust, competitive annual income.
 - 🔭 Future interests: Digital nomad lifestyle, microservice operations, or freelance coding
 
@@ -40,7 +40,7 @@ I'm passionate about Full-stack Development with a deep interest in the automoti
 ## 👨‍💻 私について
 私はフルスタック開発に情熱を持ち、特に自動車産業に深い興味を持っています。関西学院大学総合政策学部メディア情報学科を卒業しました。
 
-- 🌱 現在学習中: Python, HTML, CSS, React, Next.js, Docusaurus
+- 🌱 現在学習中: Python, React, Next.js
 - 🎯 キャリア目標: 自身のスキルを最大限に活用、堅実で競争力のある年収を技術を通じ確保
 - 🔭 将来の興味: デジタルノマドライフスタイル、マイクロサービスの運用、またはフリーランスのコーディング
 
@@ -73,7 +73,7 @@ I'm passionate about Full-stack Development with a deep interest in the automoti
 ## 👨‍💻 저에 대해
 저는 풀스택 개발에 열정을 가지고 있으며 자동차에 깊은 관심을 가지고 있습니다. 간세이가쿠인대학 종합정책학부 미디어정보학과를 졸업했습니다.
 
-- 🌱 현재 학습 중: Python, HTML, CSS, React, Next.js, 그리고 Docusaurus
+- 🌱 현재 학습 중: Python, React, Next.js
 - 🎯 경력 목표: 자신의 기술을 활용하여 견고하고 경쟁력 있는 연간 수입을 보장하는 기술직 확보
 - 🔭 미래 관심사: 디지털 노마드 라이프스타일, 마이크로서비스 운영 또는 프리랜서 코딩
 
@@ -89,17 +89,17 @@ I'm passionate about Full-stack Development with a deep interest in the automoti
 
 ## 🚀 프로젝트
 - **Nginx 로그 분석기** (2025) - 웹 서버 로그 분석 도구
-- **몬테카를로 시뮬레이션 프로그램** (2025) - numpy와 Matplotlib을 사용한 통계 시뮬레이션
+- **몬테카를로법 시뮬레이션 프로그램** (2025) - numpy와 Matplotlib을 사용한 통계 시뮬레이션
 - **한국어 학습 웹사이트** (2024-현재) - 교육용 웹 플랫폼
 - **VR 애플리케이션** (2018) - Unity와 Oculus SDK를 사용하여 제작
-- **파이썬 계산기** (2018) - Python/Tkinter로 제작한 간단한 계산기
+- **Python 계산기** (2018) - Python/Tkinter로 제작한 간단한 계산기
 
 ## 🎮 관심사 및 취미
 - **자동차:** 실용적인 자동차에 열정적인 관심을 가지고 있음. 2014년형 마쯔다 3 2200cc 디젤 수동 소유
 - **교통:** 기차, 버스, 비행기의 소리에 특히 관심이 있음
 - **게임:** Cities: Skylines, Geoguessr 등
 - **음악:** 트로피컬 하우스, EDM, 팝송 (80년대-2010년대), K-pop, J-pop (80년대부터 현재까지)
-- **여행:** 주로 오사카에서 도쿄까지 600여km를 연간 6회 이상 왕복ㅞㅡ 
+- **여행:** 주로 오사카에서 도쿄까지 600여km를 연간 6회 이상 왕복
 
 ## 📊 My GitHub Stats
 [![bachboy0's GitHub stats](https://github-readme-stats.vercel.app/api?username=bachboy0)](https://github.com/bachboy0/github-readme-stats)
