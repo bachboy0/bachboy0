@@ -7,7 +7,7 @@ Korean and Japanese follows English.
 ## 👨‍💻 About Me
 I'm passionate about Full-stack Development with a deep interest in the automotive industry. I hold a degree in Applied Informatics from Kwansei Gakuin University.
 
-- 🌱 Currently learning: Python, React, Next.js
+- 🌱 Currently learning: Python, React, Next.js, Svelte
 - 🎯 Career goal: Aspire to secure a technical role that leverages my skills and guarantees a robust, competitive annual income.
 - 🔭 Future interests: Digital nomad lifestyle, microservice operations, or freelance coding
 
@@ -40,7 +40,7 @@ I'm passionate about Full-stack Development with a deep interest in the automoti
 ## 👨‍💻 私について
 私はフルスタック開発に情熱を持ち、特に自動車産業に深い興味を持っています。関西学院大学総合政策学部メディア情報学科を卒業しました。
 
-- 🌱 現在学習中: Python, React, Next.js
+- 🌱 現在学習中: Python, React, Next.js, Svelte
 - 🎯 キャリア目標: 自身のスキルを最大限に活用、堅実で競争力のある年収を技術を通じ確保
 - 🔭 将来の興味: デジタルノマドライフスタイル、マイクロサービスの運用、またはフリーランスのコーディング
 
@@ -73,7 +73,7 @@ I'm passionate about Full-stack Development with a deep interest in the automoti
 ## 👨‍💻 저에 대해
 저는 풀스택 개발에 열정을 가지고 있으며 자동차에 깊은 관심을 가지고 있습니다. 간세이가쿠인대학 종합정책학부 미디어정보학과를 졸업했습니다.
 
-- 🌱 현재 학습 중: Python, React, Next.js
+- 🌱 현재 학습 중: Python, React, Next.js, Svelte
 - 🎯 경력 목표: 자신의 기술을 활용하여 견고하고 경쟁력 있는 연간 수입을 보장하는 기술직 확보
 - 🔭 미래 관심사: 디지털 노마드 라이프스타일, 마이크로서비스 운영 또는 프리랜서 코딩
 
