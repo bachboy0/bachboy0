@@ -1,10 +1,23 @@
-Korean and Japanese follows English.  
-日本語は英語の後に続きます。  
-영어, 일본어에 이어 한국어판이 있습니다.  
-
 # 👋 Hi, I'm @bachboy0
 
-## 👨‍💻 About Me
+## 🚀 My Skills
+[![My Skills](https://skillicons.dev/icons?i=linux,debian,ubuntu,docker,vim,vscode,postgres,nginx,r,py,js,ts,html,css,nodejs,npm,vite,tailwind,react,svelte,astro,nextjs,cloudflare,supabase)](https://skillicons.dev)
+## 📊 My GitHub Stats
+![bachboy0's GitHub stats](https://github-readme-stats.vercel.app/api?username=bachboy0)
+
+## 📈 My Language Usage
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bachboy0)
+## 📫 Connect With Me
+- Email: [bachboy0@gmail.com](mailto:bachboy0@gmail.com)
+- LinkedIn: [Daewook Kang](https://www.linkedin.com/in/daewook-kang/)
+
+# 👨‍💻 About Me
+
+> Korean and Japanese follows English.  
+> 日本語は英語の後に続きます。  
+> 영어, 일본어에 이어 한국어판이 있습니다.  
+
+
 I'm passionate about Full-stack Development with a deep interest in the automotive industry. I hold a degree in Applied Informatics from Kwansei Gakuin University.
 
 - 🌱 Currently learning: Python, React, Next.js, Svelte, Linux
@@ -106,17 +119,3 @@ I'm passionate about Full-stack Development with a deep interest in the automoti
 - **게임:** Cities: Skylines, Geoguessr 등
 - **음악:** 트로피컬 하우스, EDM, 팝송 (80년대-2010년대), K-pop, J-pop (80년대부터 현재까지)
 - **여행:** 주로 오사카에서 도쿄까지 600여km를 연간 6회 이상 왕복
-
-## 📊 My GitHub Stats
-![bachboy0's GitHub stats](https://github-readme-stats.vercel.app/api?username=bachboy0)
-
-## 📈 My Language Usage
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bachboy0)
-## 📫 Connect With Me
-- Email: [bachboy0@gmail.com](mailto:bachboy0@gmail.com)
-- LinkedIn: [Daewook Kang](https://www.linkedin.com/in/daewook-kang/)
-
-<!---
-bachboy0/bachboy0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
