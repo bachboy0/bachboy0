@@ -108,14 +108,10 @@ I'm passionate about Full-stack Development with a deep interest in the automoti
 - **여행:** 주로 오사카에서 도쿄까지 600여km를 연간 6회 이상 왕복
 
 ## 📊 My GitHub Stats
-[![bachboy0's GitHub stats](https://github-readme-stats.vercel.app/api?username=bachboy0)](https://github.com/bachboy0/github-readme-stats)
+![bachboy0's GitHub stats](https://github-readme-stats.vercel.app/api?username=bachboy0)]
 
 ## 📈 My Language Usage
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bachboy0)](https://github.com/bachboy0/github-readme-stats)
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=bachboy0)](https://github.com/bachboy0/github-profile-trophy)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bachboy0)
 ## 📫 Connect With Me
 - Email: [bachboy0@gmail.com](mailto:bachboy0@gmail.com)
 - LinkedIn: [Daewook Kang](https://www.linkedin.com/in/daewook-kang/)
