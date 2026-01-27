@@ -108,7 +108,7 @@ I'm passionate about Full-stack Development with a deep interest in the automoti
 - **여행:** 주로 오사카에서 도쿄까지 600여km를 연간 6회 이상 왕복
 
 ## 📊 My GitHub Stats
-![bachboy0's GitHub stats](https://github-readme-stats.vercel.app/api?username=bachboy0)]
+![bachboy0's GitHub stats](https://github-readme-stats.vercel.app/api?username=bachboy0)
 
 ## 📈 My Language Usage
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bachboy0)
