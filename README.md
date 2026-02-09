@@ -3,7 +3,7 @@
 ## 🚀 My Skills
 [![My Skills](https://skillicons.dev/icons?i=linux,debian,ubuntu,docker,vim,vscode,postgres,nginx,r,py,js,ts,html,css,nodejs,npm,vite,tailwind,react,svelte,astro,nextjs,cloudflare,supabase)](https://skillicons.dev)
 ## 📊 My GitHub Stats
-![bachboy0's GitHub stats](https://github-readme-stats.vercel.app/api?username=bachboy0)
+[![bachboy0's GitHub stats](https://github-readme-stats.vercel.app/api?username=bachboy0)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📈 My Language Usage
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bachboy0)
@@ -88,7 +88,7 @@ I'm passionate about Full-stack Development with a deep interest in the automoti
 # 👋 안녕하세요, 저는 @bachboy0입니다
 
 ## 👨‍💻 저에 대해
-저는 풀스택 개발에 열정을 가지고 있으며 자동차에 깊은 관심을 가지고 있습니다. 간세이가쿠인대학 종합정책학부 미디어정보학과를 졸업했습니다。
+저는 풀스택 개발에 열정을 가지고 있으며 자동차에 깊은 관심을 가지고 있습니다. 간세이가쿠인대학 종합정책학부 미디어정보학과를 졸업했습니다.
 
 - 🌱 현재 학습 중: Python, React, Next.js, Svelte, Linux
 - 🎯 경력 목표: 자신의 기술을 활용하여 견고하고 경쟁력 있는 연간 수입을 보장하는 기술직 확보
