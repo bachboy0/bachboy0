@@ -37,7 +37,7 @@ I'm passionate about Full-stack Development with a deep interest in the automoti
 - **Taxi Driver (2019-2023):** Full-time taxi driver in Osaka, enhancing people skills and driving expertise
 
 ## 🚀 Projects
-- **takubook** (2024-Present) - Web app for taxi drivers to manage sales and working hours. Built with SvelteKit 5, TypeScript, Tailwind CSS v4, Supabase. Features real-time goal tracking, offline PWA support, cloud sync via Google/X/Email login. Live at [takubook.com](https://takubook.com)
+- **takubook** (2025-Present) - Web app for taxi drivers to manage sales and working hours. Built with SvelteKit 5, TypeScript, Tailwind CSS v4, Supabase. Features real-time goal tracking, offline PWA support, cloud sync via Google/X/Email login. Live at [takubook.com](https://takubook.com)
 - **Nginx Log Analyzer** (2025) - Tool for analyzing web server logs
 - **Monte Carlo Simulation Program** (2025) - Statistical simulation using numpy and Matplotlib
 - **VR Application** (2018) - Created using Unity & Oculus SDK
@@ -72,7 +72,7 @@ I'm passionate about Full-stack Development with a deep interest in the automoti
 - **タクシー運転手 (2019-2023):** 大阪でフルタイムのタクシー運転手として活動し、人とのコミュニケーション能力と運転技術を向上
 
 ## 🚀 プロジェクト
-- **takubook (タクブック)** (2024-現在) - タクシードライバー向けの売上・時間管理Webアプリ。SvelteKit 5、TypeScript、Tailwind CSS v4、Supabaseで構築。リアルタイムの目標達成管理、オフラインPWA対応、Google/X/メールログインによるクラウド同期機能搭載。[takubook.com](https://takubook.com)で公開中
+- **takubook (タクブック)** (2025-現在) - タクシードライバー向けの売上・時間管理Webアプリ。SvelteKit 5、TypeScript、Tailwind CSS v4、Supabaseで構築。リアルタイムの目標達成管理、オフラインPWA対応、Google/X/メールログインによるクラウド同期機能搭載。[takubook.com](https://takubook.com)で公開中
 - **Nginxログ解析ツール** (2025) - ウェブサーバーログの解析ツール
 - **モンテカルロシミュレーションプログラム** (2025) - numpyとMatplotlibを使用した統計シミュレーション
 - **VRアプリケーション** (2018) - UnityとOculus SDKを使用して作成
@@ -107,7 +107,7 @@ I'm passionate about Full-stack Development with a deep interest in the automoti
 - **택시 운전사 (2019-2023):** 오사카에서 전업 택시 운전사로 활동, 사람과의 소통 능력 및 운전 기술 향상
 
 ## 🚀 프로젝트
-- **takubook (タクブック)** (2024-현재) - 택시 운전사를 위한 매출 및 근무시간 관리 웹앱. SvelteKit 5, TypeScript, Tailwind CSS v4, Supabase로 구축. 실시간 목표 달성 관리, 오프라인 PWA 지원, Google/X/이메일 로그인을 통한 클라우드 동기화 기능 탑재. [takubook.com](https://takubook.com)에서 공개 중
+- **takubook (タクブック)** (2025-현재) - 택시 운전사를 위한 매출 및 근무시간 관리 웹앱. SvelteKit 5, TypeScript, Tailwind CSS v4, Supabase로 구축. 실시간 목표 달성 관리, 오프라인 PWA 지원, Google/X/이메일 로그인을 통한 클라우드 동기화 기능 탑재. [takubook.com](https://takubook.com)에서 공개 중
 - **Nginx 로그 분석기** (2025) - 웹 서버 로그 분석 도구
 - **몬테카를로법 시뮬레이션 프로그램** (2025) - numpy와 Matplotlib을 사용한 통계 시뮬레이션
 - **VR 애플리케이션** (2018) - Unity와 Oculus SDK를 사용하여 제작
