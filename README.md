@@ -8,7 +8,7 @@
 ## 📈 My Language Usage
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bachboy0)
 ## 📫 Connect With Me
-- Email: [bachboy0@gmail.com](mailto:bachboy0@gmail.com)
+- Email: [nakayamaken.blog@gmail.com](mailto:nakayamaken.blog@gmail.com)
 - LinkedIn: [Daewook Kang](https://www.linkedin.com/in/daewook-kang/)
 
 # 👨‍💻 About Me
