@@ -27,7 +27,7 @@ I'm passionate about Full-stack Development with a deep interest in the automoti
 ## 🛠️ Skills & Expertise
 - **Environment:** Windows 11 + WSL2 (Debian 13, Ubuntu 24.04LTS), Docker Engine
 - **Programming Languages:** Python, JavaScript
-- **Web Development:** Node.js, React, Docusaurus, SvelteKit
+- **Web Development:** Node.js, React, Docusaurus, SvelteKit, Astro
 - **Strengths:** Customer service, self-learning & adaptability
 - **Currently preparing for:** Applied Information Technology Engineer Examination
 
@@ -55,7 +55,7 @@ I'm passionate about Full-stack Development with a deep interest in the automoti
 ## 👨‍💻 私について
 私はフルスタック開発に情熱を持ち、特に自動車産業, MaaSに深い興味を持っています。関西学院大学総合政策学部メディア情報学科を卒業しました。
 
-- 🌱 現在学習中: Python, React, Next.js, Svelte, Linux
+- 🌱 現在学習中: Python, React, Next.js, Svelte, Linux, Astro
 - 🎯 キャリア目標: 自身のスキルを最大限に活用、堅実で競争力のある年収を技術を通じ確保
 - 🔭 将来の興味: デジタルノマドライフスタイル、マイクロサービスの運用、またはフリーランスのコーディング
 
@@ -90,7 +90,7 @@ I'm passionate about Full-stack Development with a deep interest in the automoti
 ## 👨‍💻 저에 대해
 저는 풀스택 개발에 열정을 가지고 있으며 자동차, MaaS에 깊은 관심을 가지고 있습니다. 간세이가쿠인대학 종합정책학부 미디어정보학과를 졸업했습니다.
 
-- 🌱 현재 학습 중: Python, React, Next.js, Svelte, Linux
+- 🌱 현재 학습 중: Python, React, Next.js, Svelte, Linux, Astro
 - 🎯 경력 목표: 자신의 기술을 활용하여 견고하고 경쟁력 있는 연간 수입을 보장하는 기술직 확보
 - 🔭 미래 관심사: 디지털 노마드 라이프스타일, 마이크로서비스 운영 또는 프리랜서 코딩
 
